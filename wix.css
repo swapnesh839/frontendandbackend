@@ -1,0 +1,254 @@
+body{
+    background-color:rgb(6, 66, 178);
+    height:7000px;
+}
+.upp{
+    width:100%; 
+    background-color: rgb(251, 252, 252);
+    position:fixed;
+    top:-1px;
+    left:0px;
+    z-index: 1;
+}
+.app{
+    float: left;
+}
+.wix{
+    color:rgb(12, 12, 12);
+    position: relative;
+    left:25px;
+    text-decoration-style: solid;
+    line-height: 238%;
+    font-size: xx-large;
+}
+.w{
+    float:left;
+}
+.app{
+    position: relative;
+    left:60px;
+    top:35%;
+}
+.s1,.s2,.s3,.s4{
+    border:none;
+    width:87px;
+}
+.s2{
+    position:relative;
+    left:10%;
+}
+.s3{
+    position:relative;
+    left:20%;
+}
+.s4{
+    position:relative;
+    left:30%;
+}
+.s5{
+    position:relative;
+    left:40%;
+    width:94px;
+    border:none;
+    border-left: 1px solid black;
+    padding-left: 30px;
+}
+.t{
+   float:right;
+   position:relative;
+    left:80%;
+    top:16px;
+    border:none;
+}
+.uu{
+    height:50px;
+    background-color: rgb(51, 40, 248);
+    border-radius: 40px ;
+    color: aliceblue;
+    width:167px;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+}
+.uu:hover{
+    background-color: rgb(123, 216, 174);
+}
+.l2{
+    color: azure;
+    width:100%;
+    height:30px;
+    background-color: rgb(19, 59, 132);
+    position:fixed;
+    top:76px;
+    text-align: center;
+    z-index: 1;
+}
+.ee{
+    position: relative;
+    top:-9px;
+}
+.l3{
+    color:aliceblue;
+    text-align:center;
+    position:relative;
+    top:190px;
+}
+.ppp{
+    font-size: 110px;
+}
+.ppp:hover{
+    color: aquamarine;
+    background-color:rgb(46, 153, 183);
+}
+.po{
+    font-size: 20px;
+}
+.poo:hover{
+    color: aquamarine;
+    background-color: rgb(46, 153, 183);  
+}
+.uu2{
+    height:50px;
+    background-color: rgb(228, 227, 241);
+    border-radius: 40px ;
+    color:black;
+    width:167px;
+    height: 40px;
+    font-size: 20px;
+    border:none; 
+    position: relative;
+    left:45%;
+    top:230px;
+
+}
+.uu2:hover{
+    background-color: rgb(123, 216, 174);
+}
+.try{
+    width:90%;
+    position: relative;
+    top:250px;
+    left:10%;
+}
+.try2{
+    color: aliceblue;
+    float:left;
+    position: relative;
+    top:0px;
+    left:70%;
+}
+#o{
+    height:70px;
+}
+#o:hover{
+    background-color: aquamarine;
+}
+.opl{
+    background-color: rgb(217, 230, 136);
+    COLOR:black;
+    position:fixed;
+    top:400px;
+    left:-38px;
+    height: 40px;
+    width:auto;
+    font-size: 20px;
+    line-height: 40px;
+    transform:rotate(90deg);
+    z-index: 1;
+}
+.opl:hover{
+    color: rgb(220, 243, 252);
+    background-color: blueviolet;
+}
+.dd{
+    height:600px;
+    width:100%;
+    background-color: aliceblue;
+    position:absolute;
+    top:1300px;
+    left:0%;
+}
+.p2{
+    font:bold;
+    color:rgb(2, 16, 29);
+    font-size: 70px;
+    position: relative;
+    left:70px;
+    top:80px;
+}
+.yyy{
+    width:320px;
+    border-top:2px solid black ;
+    position: relative;
+    top:40px;
+    left:50px;
+    float: left;
+}
+.zz{
+    float: left;
+    width:320px;
+    border-top:2px solid black ;
+    position: relative;
+    top:40px;
+    left:99px;
+}
+.vvv{
+    float: left;
+    width:320px;
+    border-top:2px solid black ;
+    position: relative;
+    top:40px;
+    left:120px;
+}
+.uu3{
+    height:50px;
+    background-color: rgb(8, 8, 8);
+    border-radius: 40px ;
+    color:rgb(253, 253, 253);
+    width:167px;
+    height: 40px;
+    font-size: 20px;
+    border:none;
+    clear:both;
+    position: relative;
+    top:60px;
+    left: -700px;
+}
+.rrr{
+    height:600px;
+    width:100%;
+    background-color: rgb(12, 12, 12);
+    position:absolute;
+    top:1900px;
+    left:0%;
+}
+#pop{
+    text-align: center;
+    color:rgb(255, 252, 252);
+    font-size: 80px;
+}
+.pop{
+    position: relative;
+    top:120px;
+}
+.cv{
+    width:50%;
+    position:relative;
+    left:43%;
+    top:200px;
+}
+.uu4{
+    color:black;
+    background-color: white;
+    width:167px;
+    height: 40px;
+    font-size: 20px;
+    border:none;
+    border-radius: 40px ;
+}
+.oo{
+    color: white;
+    text-align: center;
+    position: relative;
+    top:150px;
+}
