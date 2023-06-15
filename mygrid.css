@@ -1,6 +1,7 @@
 body {
   margin: 0px;
   padding: 0px;
+  font-size: 1rem;
 }
 
 @media (max-width : 412px) {
@@ -26,7 +27,6 @@ body {
 }
 
 .flex-box {
-  width: 100%;
   display: flex;
   flex-wrap: wrap;
   line-height: 30px;
