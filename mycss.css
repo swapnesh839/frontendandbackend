@@ -1,9 +1,13 @@
+.btn{
+  background-color: black;
+}
 .solid{
   text-decoration: solid;
 }
 .bold{
   font-weight: bold;
 }
+
 .italic{
   font-style: italic;
 }
