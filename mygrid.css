@@ -339,9 +339,7 @@ body {
     .flex-item-md-7,
     .flex-item-md-8,
     .flex-item-md-9,
-    .flex-item-md-10,
-    .flex-item-md-11,
-    .flex-item-md-12 {
+    .flex-item-md-10{
       width: 100%;
     }
   }
@@ -357,9 +355,7 @@ body {
     .flex-item-sm-7,
     .flex-item-sm-8,
     .flex-item-sm-9,
-    .flex-item-sm-10,
-    .flex-item-sm-11,
-    .flex-item-sm-12 {
+    .flex-item-sm-10 {
       width: 100%;
     }
   }
@@ -376,9 +372,7 @@ body {
     .flex-item-lg-7,
     .flex-item-lg-8,
     .flex-item-lg-9,
-    .flex-item-lg-10,
-    .flex-item-lg-11,
-    .flex-item-lg-12 {
+    .flex-item-lg-10 {
       width: 100%;
     }
   }
@@ -398,9 +392,7 @@ body {
     .flex-item-xl-7,
     .flex-item-xl-8,
     .flex-item-xl-9,
-    .flex-item-xl-10,
-    .flex-item-xl-11,
-    .flex-item-xl-12 {
+    .flex-item-xl-10 {
       width: 100%;
     }
   }
@@ -416,9 +408,7 @@ body {
     .flex-item-xxl-7,
     .flex-item-xxl-8,
     .flex-item-xxl-9,
-    .flex-item-xxl-10,
-    .flex-item-xxl-11,
-    .flex-item-xxl-12 {
+    .flex-item-xxl-10 {
       width: 100%;
     }
   }
@@ -649,9 +639,7 @@ body {
     .box-gap-md-7,
     .box-gap-md-8,
     .box-gap-md-9,
-    .box-gap-md-10,
-    .box-gap-md-11,
-    .box-gap-md-12 {
+    .box-gap-md-10 {
       margin-left: 0%;
     }
   }
@@ -667,9 +655,7 @@ body {
     .box-gap-sm-7,
     .box-gap-sm-8,
     .box-gap-sm-9,
-    .box-gap-sm-10,
-    .box-gap-sm-11,
-    .box-gap-sm-12 {
+    .box-gap-sm-10 {
       margin-left: 0%;
     }
   }
@@ -686,9 +672,7 @@ body {
     .box-gap-lg-7,
     .box-gap-lg-8,
     .box-gap-lg-9,
-    .box-gap-lg-10,
-    .box-gap-lg-11,
-    .box-gap-lg-12 {
+    .box-gap-lg-10 {
       margin-left: 0%;
     }
   }
@@ -704,9 +688,7 @@ body {
     .box-gap-xl-7,
     .box-gap-xl-8,
     .box-gap-xl-9,
-    .box-gap-xl-10,
-    .box-gap-xl-11,
-    .box-gap-xl-12 {
+    .box-gap-xl-10 {
       margin-left: 0%;
     }
   }
@@ -722,9 +704,7 @@ body {
     .box-gap-xxl-7,
     .box-gap-xxl-8,
     .box-gap-xxl-9,
-    .box-gap-xxl-10,
-    .box-gap-xxl-11,
-    .box-gap-xxl-12 {
+    .box-gap-xxl-10 {
       margin-left: 0%;
     }
   }

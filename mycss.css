@@ -611,3 +611,118 @@
   background-color: rgba(19, 227, 19, 0.932);
   color: rgb(44, 41, 41);
 }
+.fixed-top{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+.fixed-bottom{
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+.position-relative{
+  position: relative;
+}
+.position-absolute{
+  position: absolute;
+}
+.position-sticky{
+  position: sticky;
+}
+t-0{
+  top: 0px;
+}
+t-20{
+  top: 20px;
+}
+t-25{
+  top: 25px;
+}
+t-50{
+  top: 50px;
+}
+t-80{
+  top: 80px;
+}
+t-80{
+  top: 80px;
+}
+t-90{
+  top: 90px;
+}
+t-100{
+  top: 100px;
+}
+b-0{
+  bottom: 0px;
+}
+b-20{
+  bottom: 20px;
+}
+b-25{
+  bottom: 25px;
+}
+b-50{
+  bottom: 50px;
+}
+b-80{
+  bottom: 80px;
+}
+b-80{
+  bottom: 80px;
+}
+b-90{
+  bottom: 90px;
+}
+b-100{
+  bottom: 100px;
+}
+l-0{
+  left: 0px;
+}
+l-20{
+  left: 20px;
+}
+l-25{
+  left: 25px;
+}
+l-50{
+  left: 50px;
+}
+l-80{
+  left: 80px;
+}
+l-80{
+  left: 80px;
+}
+l-90{
+  left: 90px;
+}
+l-100{
+  left: 100px;
+}
+r-0{
+  right: 0px;
+}
+r-20{
+  right: 20px;
+}
+r-25{
+  right: 25px;
+}
+r-50{
+  right: 50px;
+}
+r-80{
+  right: 80px;
+}
+r-80{
+  right: 80px;
+}
+r-90{
+  right: 90px;
+}
+r-100{
+  right: 100px;
+}
