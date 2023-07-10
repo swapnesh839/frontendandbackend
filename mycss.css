@@ -346,12 +346,12 @@
   margin-right: 6px;
 }
 .mx-auto {
-  margin-left: auto;
-  margin-right: auto;
+  margin-right: auto !important;
+  margin-left: auto !important;
 }
 .my-auto {
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: auto !important;
+  margin-bottom: auto !important;
 }
 
 .mb-1 {
